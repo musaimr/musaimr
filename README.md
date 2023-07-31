@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @musaimr
+- 👋 Hi, I’m Musa
 - 👀 I’m interested in coding, learning new skills, web developing
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: musaimr06@gmail.com
